@@ -1,6 +1,6 @@
 # 🌟 My Portfolio
 
-Welcome to my portfolio! This site showcases my skills, projects, and experience as a developer. Check it out [here](https://myportfoliogopi.netlify.app/).
+Welcome to my portfolio! This site showcases my skills, projects, and experience as a developer. Check it out [here](https://mgopiportfolios.netlify.app/).
 
 ---
 
